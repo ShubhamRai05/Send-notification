@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+
+
+}
+.btn{
+    color: #121212;
+    background-color: rgba(216, 216, 194, 0.541);
+    padding: 49px;
+    font-size: 2rem;
+    border-radius: 106px;
+    text-transform: capitalize;
+    color: rgb(13, 13, 13);
+    outline:none;
+    border: none;
+}
+.btn:hover
+{
+    background-color: #2f8512dc;
+    color: aliceblue;
+}
